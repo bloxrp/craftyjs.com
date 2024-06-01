@@ -1,2 +1,0 @@
-# craftyjs.com
-craftyjs.com
